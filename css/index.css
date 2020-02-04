@@ -2141,10 +2141,9 @@ blockquote footer cite:before {
   -webkit-align-items: center;
   align-items: center;
   height: 50rem;
-  background-attachment: scroll;
 }
 #nav.not_index_bg {
-  height: 50rem;
+  height: 20rem;
 }
 #nav #site-social-icons {
   display: none;
