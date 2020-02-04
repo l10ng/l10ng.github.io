@@ -2121,7 +2121,7 @@ blockquote footer cite:before {
   margin-bottom: 1rem;
   width: 100%;
   background-color: #49b1f5;
-  background-attachment: local;
+  background-attachment: scroll;
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -2141,6 +2141,7 @@ blockquote footer cite:before {
   -webkit-align-items: center;
   align-items: center;
   height: 50rem;
+  background-attachment: scroll;
 }
 #nav.not_index_bg {
   height: 50rem;
